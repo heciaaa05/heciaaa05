@@ -105,8 +105,8 @@ Exploring neural architectures for time-series forecasting.
 
 ## 📫 Connect With Me
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: YOUR_EMAIL
+- GitHub: heciaaa05(https://github.com/heciaaa05)
+- Email: hoangmv.005@gmail.com
 
 ---
 
