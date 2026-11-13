@@ -52,36 +52,27 @@ My interests focus on understanding how models learn, designing efficient learni
 ## 🚀 Featured Projects
 
 ### 1. PALF — Pattern-Aware Learning Framework
-**AI Research | Time-Series | Learning Dynamics**
+**AI Research | Time-Series Forecasting | Learning Dynamics** · [Repo](https://github.com/heciaaa05/PALF)
 
-An experimental framework designed to observe model learning states and adapt training data selection to improve training efficiency.
+Student research project (Hanoi University of Industry) on adaptive training for time-series forecasting, applied to weather and wildfire risk.
 
-- Learning State Observation
-- Pattern Analysis
-- Adaptive Training Strategy
-- Experimental evaluation with time-series architectures
+- PyTorch pipeline with 4 backbones: GRU, TCN, Transformer, PatchTST
+- Per-pattern learning dynamics logging (Dataset Cartography style)
+- 70,000+ hourly samples (Jena climate), time-ordered split with purge gap to avoid leakage
+- 34 pytest tests
 
-### 2. Chess AI
-**Deep Learning | Neural Networks | Monte Carlo Tree Search**
+### 2. ChessWithAI (Shiro) — AlphaZero-style Chess Engine
+**Deep Learning | MCTS | Self-Play** · [Repo](https://github.com/heciaaa05/ChessWithAI)
 
-An AI-powered chess application combining neural network evaluation with Monte Carlo Tree Search.
+- ResNet-based policy/value network (TensorFlow), 8×8×20 board encoding
+- MCTS with prior probabilities, Progressive Widening and Virtual Loss
+- Self-play training loop, batch inference, multi-threaded Pygame UI
 
-- Legal move generation
-- Neural network-based position evaluation
-- MCTS-based decision making
-- Human vs AI gameplay
+### 3. ECommerce — Gaming Gear Store
+**Backend | ASP.NET Core | Recommender** 
 
-### 3. Time-Series Forecasting
-**Machine Learning | Deep Learning | Forecasting**
-
-Exploring neural architectures for time-series forecasting.
-
-- GRU
-- Transformer
-- PatchTST
-- Model performance evaluation
-
----
+- Clean Architecture, JWT, Redis, VNPay sandbox, Docker Compose
+- FastAPI + TF-IDF content-based product recommender
 
 ## 📚 Currently Learning
 
@@ -97,16 +88,15 @@ Exploring neural architectures for time-series forecasting.
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heciaaa05&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heciaaa05&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: heciaaa05(https://github.com/heciaaa05)
-- Email: hoangmv.005@gmail.com
+   - GitHub: [heciaaa05](https://github.com/heciaaa05)
+   - Email: hoangmv.005@gmail.com
 
 ---
 
